@@ -1,10 +1,10 @@
-#Website for Vecta Corporation
+# Website for Vecta Corporation
 This is the Website for Vecta Corporation website. 
 
-##Pages included
+## Pages included
 * [Welcome Page](#welcome-page)
 
-##Welcome Page
+## Welcome Page
 The page introduces guests to what the company does.
 It provides information on various products, some client testimonials, contact information and information on management team.
 
