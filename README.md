@@ -7,7 +7,3 @@ This is the Website for Vecta Corporation website.
 ## Welcome Page
 The page introduces guests to what the company does.
 It provides information on various products, some client testimonials, contact information and information on management team.
-
-
-
- 
